@@ -1,1 +1,1 @@
-My gdmc initial testing code.
+My gdmc initial testing code, please ignore the lack of convention, I don't work with python lol 
