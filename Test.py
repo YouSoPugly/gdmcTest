@@ -2,8 +2,8 @@ import numpy
 from gdpc import Editor
 from matplotlib import pyplot as plt
 
-import generators.Terrain.Terraform as Terraform
-import generators.Terrain.Logger as Logger
+import generators.terrain.Terraform as Terraform
+import generators.terrain.Logger as Logger
 import generators.Debug as Debug
 
 import utils.Noise as Noise
