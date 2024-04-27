@@ -10,7 +10,6 @@ from utils.Heightmap import get_heightmap
 
 
 def visualize():
-
     heightmap = get_heightmap(Editor().getBuildArea())
 
     # normalize the heightmap to the range [0, 255]
